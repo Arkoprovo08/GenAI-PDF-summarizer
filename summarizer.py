@@ -11,6 +11,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_experimental.text_splitter import SemanticChunker
 
+
 # Load Embedding Model
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
