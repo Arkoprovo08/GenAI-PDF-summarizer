@@ -4,4 +4,4 @@ The tinyllama model summarizes any pdf given to it in 10-15 sentences.
 Run summarizer.py file to execute the PDF Summarizing script
 
 To install all the dependencies listed in a requirements.txt file, you use the following command in your terminal:
-<pre> bash pip install -r requirements.txt </pre>
+<pre> pip install -r requirements.txt </pre>
